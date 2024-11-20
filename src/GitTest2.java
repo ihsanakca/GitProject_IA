@@ -4,5 +4,14 @@ public class GitTest2 {
         System.out.println("Serafettin candır");
         System.out.println("Gerisi heyecandır");
         System.out.println("ihsan");
+        System.out.println("Java candır");
+        System.out.println("Serafettin candır");
+        System.out.println("Gerisi heyecandır");
+        System.out.println("ihsan");
+        System.out.println("Java candır");
+        System.out.println("Serafettin candır");
+        System.out.println("Gerisi heyecandır");
+        System.out.println("ihsan");
+
     }
 }
